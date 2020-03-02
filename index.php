@@ -71,7 +71,7 @@
 					<li><a href="contact.php">Contact</a></li>
 				</ul>
 				<ul class="nav navbar-nav navbar-right">
-					<li><a href="login.php">Login</a></li>
+					<li><a href="login.php">Loginkaro</a></li>
 					<li><a href="signup.php">Register</a></li>
 				</ul>
 			</div>
