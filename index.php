@@ -67,8 +67,8 @@
 			</div>
 			<div class="collapse navbar-collapse" id="bs-nav-demo">
 				<ul class="nav navbar-nav">
-					<li><a href="about.php">About</a></li>
-					<li><a href="contact123.php">Contact</a></li>
+					<li><a href="about.php">About123</a></li>
+					<li><a href="contact.php">Contact</a></li>
 				</ul>
 				<ul class="nav navbar-nav navbar-right">
 					<li><a href="login.php">Login</a></li>
